@@ -1,1 +1,1 @@
-![animacion de mi](output.gif)
+![animacion de mi](animation.gif)
