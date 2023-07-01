@@ -1,1 +1,1 @@
-<img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/stevenAnto/stevenAnto/animation.gif" alt="Here is a little bit about me!">
